@@ -85,20 +85,3 @@ A **PoseiShop** vai além de um e-commerce:
 Inspirado em marcas de luxo e no design system da Apple, o projeto demonstra como interfaces podem ser **imersivas, rápidas e emocionalmente envolventes**.
 
 ---
-
-## 🤝 Contribuição
-
-1. Fork o projeto  
-2. Crie sua branch  
-```bash
-git checkout -b feature/minha-feature
-```
-3. Commit suas alterações  
-```bash
-git commit -m "feat: minha feature"
-```
-4. Push  
-```bash
-git push origin feature/minha-feature
-```
-5. Abra um Pull Request  
